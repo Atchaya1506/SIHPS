@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:27/11/2024
 ## Register Number:24900268
-## Name:b.ATCHAYA
+## Name:B.ATCHAYA
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
