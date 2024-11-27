@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:27/11/2024
+## Register Number:24900268
+## Name:b.ATCHAYA
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,74 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1.Platform Architecture.
+Frontend:Responsive web and mobile application using framework like React and react native/flutter(for mobile).
+Backend:RESTful API or GraphQL architecture built using Node.js/Django with database integration.
+Database:Secure and scalable options like PostgreSQL or MangoDB
+Cloud Hosting: Desplay on AWS Google Cloud or Azure forscability and uptime.
+
+Key Features*
+A. Alumni Registration*
+- Easy sign-up and profile creation via email/LinkedIn.  
+- Fields for personal, academic, and professional details.  
+- Authentication via OTP/email verification for security.  
+
+B. Donation Portal*
+- Secure payment gateway integration (e.g., Razorpay, Stripe).  
+- Options for one-time or recurring donations.  
+- Transparency through donation tracking and reporting dashboards.  
+
+C. Networking Hub*
+- AI-powered algorithms to suggest connections based on interests, professions, and location.  
+- Group chats, discussion forums, and interest-based communities.  
+- Virtual mentorship and collaboration features.  
+
+D. Job Portal*
+- Dynamic job board with search and filter options.  
+- Alumni can post job openings and internships.  
+- Resume-builder tool and application tracker.
+
+E. Alumni Directory*
+- Advanced search with filters (year, course, location, etc.).  
+- Directory with contact preferences to respect privacy.  
+
+F. Success Story Tracking*
+- Dedicated section to highlight achievements with multimedia support.  
+- Submission portal for alumni to share their stories.  
+- Voting and commenting features for community interaction.  
+
+G. Events and Reunions*
+- Event creation and management tools with RSVP functionality.  
+- Virtual and hybrid event support with live-streaming capabilities.  
+- Calendar integration for reminders.  
+
+H. Feedback and Surveys*
+- Feedback forms integrated into the platform.  
+- Real-time data analysis for surveys to improve alumni engagement strategies.  
+  
 
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2024-11-27 162154](https://github.com/user-attachments/assets/33ac2da8-2649-400b-98eb-f0e9c500cc0f)
 
 
 ## Use Cases
+![Screenshot 2024-11-27 155503](https://github.com/user-attachments/assets/3597f8db-4e6f-46e9-a5fa-459ce4ed5570)
 
 
 ## Technology Stack
-
+Frontend  -  React.js
+Backend   -  Node.js/Django
+Database  -  PosterSQL/MangoDB
+Payment Gateway - Razorpay/Stripe
+Authentication - OAuth 2.0,Firebase Auth
+Hosting   - AWS/Google Cloud
+Version Control - Github / Githlab
 
 ## Dependencies
+Category - Estimated Cost / Resourses
+Development - Rs 1 Lakhs/year
+Hosting & cloud - 90 Thousand/year
+Maintence - 70 Thousand/year
+Team - 1PM,1 Designer,1 Tester.
 
